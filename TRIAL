@@ -1,0 +1,8 @@
+#include<stdio.h>
+int main()
+{
+int a , b;
+printf("ENter any two number here :");
+scanf("%d %d , &a, &b);
+printf(" The sum of the number is  %d = " , a+b);
+return 0;
